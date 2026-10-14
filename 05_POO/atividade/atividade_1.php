@@ -22,7 +22,7 @@ $livro1-> exibirDetalhes();
 
 echo "<br><br>";
 
-$livro2 = new Livro('Lucíola', 'Machado de Assis', 160);
+$livro2 = new Livro('Lucíola', 'José de Alencar', 160);
 $livro2-> exibirDetalhes();
 
 
